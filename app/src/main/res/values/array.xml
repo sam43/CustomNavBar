@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nav Drawer Menu Items -->
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Fitness &amp; Beauty</item>
+        <item>Home Theater &amp; Audio</item>
+        <item>Home Appliances</item>
+        <item>Kitchen Appliances</item>
+        <item>Small Appliances</item>
+        <item>TVs</item>
+        <item>Laptops &amp; Desktops</item>
+        <item>Accessories</item>
+        <item>Mobile and Tabs</item>
+    </string-array>
+
+    <string-array name="home">
+        <item>Sign In</item>
+        <item>Sign Out</item>
+    </string-array>
+
+    <string-array name="fit">
+        <item>Shirt</item>
+        <item>Paint</item>
+        <item>T-Shirt</item>
+    </string-array>
+
+    <string-array name="theater">
+        <item>Jwellery</item>
+        <item>Shirt</item>
+        <item>Paint</item>
+        <item>T-Shirt</item>
+    </string-array>
+
+    <string-array name="homeapp">
+        <item>Jwellery</item>
+        <item>Shirt</item>
+        <item>Paint</item>
+        <item>T-Shirt</item>
+        <item>Watch</item>
+        <item>Shoose</item>
+        <item>Shoose1</item>
+    </string-array>
+
+    <string-array name="kitcapp">
+        <item>Televisions</item>
+        <item>Mobile</item>
+        <item>Tab</item>
+        <item>Refrigerator</item>
+        <item>Audio &amp; Video</item>
+        <item>Cameras</item>
+        <item>Televiss</item>
+        <item>Mole</item>
+        <item>Tb</item>
+        <item>Reerator</item>
+        <item>Au &amp; eo</item>
+        <item>Caeras</item>
+    </string-array>
+
+    <string-array name="smallapp">
+        <item>Furniture</item>
+        <item>kitchen &amp; Dining</item>
+        <item>Home Furnishing</item>
+        <item>Tools &amp; Hardware</item>
+        <item>Lighting</item>
+        <item>Home Cleaning</item>
+        <item>Ligh1ting</item>
+        <item>Home Cleafning</item>
+    </string-array>
+
+    <string-array name="tvs">
+        <item>RAM &amp; ROM </item>
+        <item>CPU</item>
+        <item>Sound</item>
+        <item>Cabinate</item>
+        <item>Hardisk</item>
+        <item>Motherbord</item>
+        <item>Motsherbord</item>
+    </string-array>
+
+    <string-array name="laps">
+        <item>Hardsisk</item>
+        <item>Motherbord</item>
+        <item>Motshesrbord</item>
+    </string-array>
+
+    <string-array name="moblies">
+        <item>Hardisk</item>
+        <item>Motherbord</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="accessories">
+        <item>Hardisk</item>
+        <item>Motherbord</item>
+        <item>Others</item>
+
+    </string-array>
+
+
+
+</resources>
